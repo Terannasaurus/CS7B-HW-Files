@@ -11,7 +11,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-using namespace std;
 
 const int MAX_NUM = 3;
 const int MAX_COLUMN = 3;
@@ -21,7 +20,9 @@ bool isMagicSquare(int loShu[MAX_NUM][MAX_COLUMN]) {
     
     int i, j;
     
-    cout << "Enter 9 numbers to fill up the Lo Shu Magic Square:" << endl;
+    
+    std::cout << "Enter 9 numbers to fill up the Lo Shu Magic Square:" << std::endl;
+    
     
     for(i = 0; i < MAX_NUM; i++) {
         
