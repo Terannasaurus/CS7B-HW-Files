@@ -1,0 +1,9 @@
+A Calabi–Yau manifold, also known as a Calabi–Yau space, is a special type of manifold that is described in certain branches of
+mathematics such as algebraic geometry. The Calabi–Yau manifold's properties, such as Ricci flatness, also yield applications in
+theoretical physics. Particularly in superstring theory, the extra dimensions of spacetime are sometimes conjectured to take the
+form of a 6-dimensional Calabi–Yau manifold, which led to the idea of mirror symmetry. Calabi–Yau manifolds are complex manifolds
+that are generalizations of K3 surfaces in any number of complex dimensions (i.e. any even number of real dimensions). They were
+originally defined as compact Kähler manifolds with a vanishing first Chern class anda Ricci-flat metric, though many other
+similar but inequivalent definitions are sometimes used. They were named "Calabi–Yauspaces" by Candelas et al. (1985) after
+Eugenio Calabi (1954, 1957) who first conjectured that such surfaces might exist, and Shing-Tung Yau (1978) who proved the Calabi
+conjecture.
